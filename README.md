@@ -1,10 +1,24 @@
-# retail-sales-inventory-analytics
+# Retail Sales & Inventory Analytics
 
-This repository will contain an end-to-end retail analytics project using SQL, Python, and Power BI.
+## Objective
+Analyze retail sales and inventory data to identify revenue trends, demand patterns, and stock-out risks.
 
-Planned components:
-- SQL queries for sales, category, and inventory analysis
-- Python (Pandas) notebooks for exploratory data analysis
-- Power BI dashboards for sales and inventory monitoring
+## Tools Used
+- SQL
+- Python (Pandas, NumPy, Matplotlib)
+- Power BI
 
-Status: In progress
+## Project Structure
+- data/: Raw datasets
+- sql/: SQL queries
+- python/: Python EDA notebook
+- dashboard/: Dashboard screenshots
+
+## Key Analysis
+- Monthly revenue trends
+- Category-wise performance
+- High-demand products
+- Inventory risk identification
+
+## Status
+In progress
